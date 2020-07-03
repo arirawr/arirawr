@@ -1,9 +1,9 @@
 ### Hi, I'm Ari 👋
 
-![website badge](https://img.shields.io/badge/website-ariv.se-yellow?style=flat-square&link=https://ariv.se)
-![twitter badge](https://img.shields.io/badge/twitter-@AriVanider-blue?style=flat-square&link=https://twitter.com/arivanider&logo=twitter)
-![dev.to badge](https://img.shields.io/badge/dev.to-ari-black?style=flat-square&link=https://dev.to/ari&logo=dev.to)
-![glitch badge](https://img.shields.io/badge/glitch-@a-magenta?style=flat-square&link=https://glitch.com/@a&logo=glitch)
+[![website badge](https://img.shields.io/badge/website-ariv.se-yellow?style=flat-square)](https://ariv.se)
+[![twitter badge](https://img.shields.io/badge/twitter-@AriVanider-blue?style=flat-square&logo=twitter)](https://twitter.com/arivanider)
+[![dev.to badge](https://img.shields.io/badge/dev.to-ari-black?style=flat-square&logo=dev.to)](https://dev.to/ari)
+[![glitch badge](https://img.shields.io/badge/glitch-@a-magenta?style=flat-square&logo=glitch)](https://glitch.com/@a)
 
 I'm a Developer Advocate living in Stockholm, Sweden.
 
