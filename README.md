@@ -8,7 +8,7 @@
 
 I'm a Assoc. Product Director living in Stockholm, Sweden. Currently working on a large mobile game engine.
 
-I used to work at Spotify on their [developer platform](https://developer.spotify.com) and with [Embark Studios](https://github.com/EmbarkStudios) on a platform for gamemaking.
+I used to work at Spotify on their [developer platform](https://developer.spotify.com) and with [Embark Studios](https://github.com/EmbarkStudios) on open source Rust & a platform for gamemaking.
 
 - 🌱 I’m currently practicing **Python, Swift, Unity, and SQL**
 - 💬 Ask me about **developer relations, communities, product, and gaming**
