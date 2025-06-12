@@ -10,7 +10,7 @@ I'm a Assoc. Product Director living in Stockholm, Sweden. Currently working on 
 
 I used to work at Spotify on their [developer platform](https://developer.spotify.com) and with [Embark Studios](https://github.com/EmbarkStudios) on open source Rust & a platform for gamemaking.
 
-- 🌱 I’m currently practicing **Python, Swift, Unity, and SQL**
-- 💬 Ask me about **developer relations, communities, product, and gaming**
+- 🌱 I’m currently working with **Python, Nextjs, and agentic workflows**
+- 💬 Ask me about **developer relations, product, and gaming**
 - 📫 How to reach me: **[Bluesky](https://bsky.app/profile/ariv.se)**, **[Mastodon](https://tech.lgbt/@a)**, or email.
 - 😄 Pronouns: [they/them](https://pronoun.is/they)
